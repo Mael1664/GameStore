@@ -21,7 +21,7 @@ Certaines fonctionnalités (Ajouter, Modifier, Supprimer) sont protégées.
 
 ### ➤ Ajouter un jeu
 1. Assurez-vous d'être connecté.
-2. Sur la page "Catalogue Jeux", cliquez sur le bouton bleu **"➕ Nouveau Jeu"**.
+2. Sur la page "Catalogue Jeux", cliquez sur le bouton bleu **"Nouveau Jeu"**.
 3. Remplissez le formulaire (Titre, Description, Date, Éditeur, PEGI).
 4. Cliquez sur **"Enregistrer"**. Le jeu apparaît immédiatement dans la liste.
 
@@ -40,7 +40,3 @@ Certaines fonctionnalités (Ajouter, Modifier, Supprimer) sont protégées.
 Vous pouvez également gérer les catégories de jeux via le menu **"Liste des Genres"**. Le fonctionnement est identique (Ajout, Modification, Suppression).
 
 ---
-*En cas de problème technique, merci de contacter le support informatique.*
-
-
-raccourci CTRL + SHIFT + V.
