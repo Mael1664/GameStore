@@ -6,7 +6,7 @@ Le projet respecte strictement le pattern architectural **MVC (Modèle - Vue - C
 
 * **Langage :** PHP 8
 * **Base de données :** MySQL / MariaDB
-* **Front-end :** HTML5, Bootstrap 5
+* **Front-end :** HTML5
 * **Serveur :** Apache (XAMPP/WAMP/Laragon)
 
 ## 2. Installation et Déploiement
@@ -56,7 +56,5 @@ Exemple : `index.php?page=jeux&action=edit&id=4`
 ---
 **Auteur :** Moreau Mael
 **Date :** Décembre 2025
-**Projet :** BTS SIO / Titre Pro - Développement Web
+**Projet :** BTS SIO / Développement Web
 
-
-raccourci CTRL + SHIFT + V.
